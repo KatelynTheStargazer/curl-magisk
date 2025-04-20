@@ -1,0 +1,6 @@
+id=curl
+name=curl binary for magisk
+version=1.0
+versionCode=1
+author=Adalyn
+description=Installs static curl binary to /system/bin
