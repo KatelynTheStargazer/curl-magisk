@@ -1,6 +1,6 @@
-id=rsync
-name=rsync binary for magisk
+id=curl
+name=curl binary for magisk
 version=1.0
 versionCode=1
 author=Adalyn
-description=Installs static rsync binary to /system/bin
+description=Installs static curl binary to /system/bin
