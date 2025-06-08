@@ -1,1 +1,1 @@
-# curl-magisk
+# rsync-magisk
